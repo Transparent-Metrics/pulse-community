@@ -4,6 +4,8 @@ We built Pulse (www.pulsemcp.com) to support adoption of the [Model Context Prot
 
 Pulse itself exists to help companies/engineers grow adoption of their MCP-compliant work, and for end-users and collaborators to discover existing solutions.
 
+Our primary, long-term contribution to the community exists in the form of a weekly newsletter, highlighting the ecosystem's major updates, most compelling use cases, and more. Sign up on [our homepage](https://www.pulsemcp.com).
+
 ## I just implemented an MCP server. How do I get it to show up on Pulse?
 
 You can either submit it [here](https://www.pulsemcp.com/submit), or just open an [Issue](https://github.com/Transparent-Metrics/pulse-community/issues) in this repository.
